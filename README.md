@@ -13,10 +13,11 @@ A small Unity tutoring project built with primitives only. The scene introduces 
 
 1. Install Unity Hub.
 2. Install or locate Unity Editor `6000.3.9f1`.
-3. In Unity Hub, choose `Add` or `Open`.
-4. Select this repository folder.
-5. Open `Assets/Scenes/PrimitiveShowcase.unity`.
-6. Press Play in the Unity Editor.
+3. Clone this repository and unzip.
+4. In Unity Hub, choose `Add` or `Open`.
+5. Select this repository folder.
+6. Open `Assets/Scenes/PrimitiveShowcase.unity`.
+7. Press Play in the Unity Editor.
 
 For the full setup guide, see [docs/setup-and-run.md](docs/setup-and-run.md).
 
