@@ -20,6 +20,8 @@ A small Unity tutoring project built with primitives only. The scene introduces 
 
 For the full setup guide, see [docs/setup-and-run.md](docs/setup-and-run.md).
 
+The PowerPoint walkthrough is included at [docs/presentations/unity-showcase-tutoring-guide.pptx](docs/presentations/unity-showcase-tutoring-guide.pptx).
+
 ## Repository Notes
 
 This repository intentionally commits only source project files:

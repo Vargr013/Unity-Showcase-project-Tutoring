@@ -8,3 +8,4 @@
 *.asset text eol=lf
 *.mat text eol=lf
 *.meta text eol=lf
+*.pptx binary
